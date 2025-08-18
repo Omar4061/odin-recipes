@@ -1,6 +1,7 @@
 body{
-    background-color: rgb(244, 249, 255);
+    background-color: rgb(246, 255, 225);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(44, 95, 11);
 }
 
 img{
@@ -13,7 +14,7 @@ img{
 
 .main-card{
     background-color: white;
-    margin: 0px 550px;
+    margin: 0px 400px;
     height: 950px;
     border-radius: 25px;
 }
